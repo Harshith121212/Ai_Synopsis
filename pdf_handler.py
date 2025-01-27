@@ -1,4 +1,4 @@
-from flask.cli import load_dotenv
+from dotenv import load_dotenv  # Import from python-dotenv
 from pymongo import MongoClient
 from PyPDF2 import PdfReader
 import json
