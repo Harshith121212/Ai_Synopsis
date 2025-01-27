@@ -1,7 +1,7 @@
-streamlit==1.19.0
-PyPDF2==3.0.1
-pymongo==4.5.0
-gridfs==2.1.0
-langchain-groq==0.1.1
-python-dotenv==0.21.0
-bson==0.5.10
+streamlit
+PyPDF2
+pymongo
+gridfs
+langchain-groq
+python-dotenv
+bson
