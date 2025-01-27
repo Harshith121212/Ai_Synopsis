@@ -1,7 +1,6 @@
 streamlit
 PyPDF2
 pymongo
-gridfs
 langchain-groq
 python-dotenv
 bson
