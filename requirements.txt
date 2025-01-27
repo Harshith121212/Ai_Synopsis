@@ -1,6 +1,5 @@
 streamlit
-PyPDF2
-pymongo
-langchain-groq
 python-dotenv
-bson
+pymongo
+PyPDF2
+langchain-groq
